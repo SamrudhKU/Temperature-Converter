@@ -29,7 +29,7 @@ JavaScript – Conversion logic
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/temperature-converter.git
+git clone https://github.com/your-username/temperature-converter.git
 
 
 Open the project folder and run index.html in your browser.
